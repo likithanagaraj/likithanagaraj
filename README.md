@@ -22,7 +22,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - Contributing on: <a href="https://github.com/likithanagaraj"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
 
-- <a href="https://twitter.com/LikithaN2020"><img alt="LinkedIn" src="https://img.shields.io/badge/Likitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
+- <a href="www.linkedin.com/in/likitha-n-6a4554271"><img alt="LinkedIn" src="https://img.shields.io/badge/Likitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
 
 
 
