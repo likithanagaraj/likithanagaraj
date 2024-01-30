@@ -6,7 +6,7 @@
 I'm Likitha.N! <br>
 I am a 2nd year IS student at Vemana Institute of Technology in Bamgalore.
 
-💻 I'm Currently into MERN stack which is one of industry standards.<br>
+💻 I'm Currently learning MERN stack which is one of industry standards.<br>
 
  <a src="https://www.express.com/"><img src="https://img.icons8.com/color/49/000000/express.png"/></a>
  <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> 
