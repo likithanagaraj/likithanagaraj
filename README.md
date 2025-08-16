@@ -5,9 +5,9 @@
 I'm **Likitha N** ✨  
 A **React Native + Expo Developer** passionate about building beautiful and scalable mobile applications.  
 
-💻 Currently working on **[Appykit UI](https://appykit-ui.vercel.app/)** — a custom **UI library for React Native** 🚀  
-🌱 Exploring better ways to design and deliver great user experiences on mobile  
-🎯 Focused on building open-source tools and high-quality UIs  
+- Currently working on **[Appykit UI](https://appykit-ui.vercel.app/)** — a custom **UI library for React Native** 🚀  
+- Exploring better ways to design and deliver great user experiences on mobile  
+- Focused on building open-source tools and high-quality UIs  
 
 ---
 
