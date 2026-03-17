@@ -3,7 +3,7 @@
 <img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b169b6a6a1f85a2b3e4a7.gif" />
 
 I'm **Likitha N** ✨  
-A **Application Debeloper** passionate about building beautiful and scalable mobile applications.  
+A **Application Developer** passionate about building beautiful and scalable mobile applications.  
 
 - Currently working on **[Appykit UI](https://appykit-ui.vercel.app/)** — a custom **UI library for React Native** 🚀  
 - Exploring better ways to design and deliver great user experiences on mobile  
