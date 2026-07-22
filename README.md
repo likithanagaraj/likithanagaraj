@@ -48,48 +48,65 @@ I enjoy combining **development + design thinking** to create products that feel
 
 ---
 
-## 🌟 About Appykit
+## 🧰 Appykit
 
-### 🚀 Appykit
+A learning space I'm building for **Flutter & Dart** - courses, blogs, an app gallery, and a shelf of tools worth keeping.
 
-Appykit is a platform focused on helping developers learn and build modern mobile applications using Flutter.
-
-It includes:
-
-* 📚 Courses on Dart & Flutter
-* 📝 Blogs about app development concepts, architecture, and UI/UX design
-* 🖼️ Gallery of inspiring mobile applications
-* 🧩 Resources section for tools, libraries, and developer references
-* 🎨 Design-focused learning for building polished mobile experiences
-
-🔗 [https://appykit-ui.vercel.app/](https://www.appykit-ui.com/)
+<a href="https://www.appykit-ui.com/">
+  <img src="https://img.shields.io/badge/appykit--ui.com-0B0B0F?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Appykit" />
+</a>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <p align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=likithanagaraj&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=likithanagaraj&show_icons=true&count_private=true&hide_border=true&border_radius=10&theme=react" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=likithanagaraj&count_private=true&hide_border=true&border_radius=10&theme=react" alt="Streak" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=likithanagaraj&layout=compact&hide_border=true&border_radius=10&theme=react" alt="Top languages" />
 </p>
 
 ---
 
-## 🤍 More About Me
+<details>
+<summary><b>🎧 Things that aren't code</b></summary>
 
-* 🎨 Design-driven developer
-* 📚 Always learning and exploring new technologies
-* ✨ Interested in UI/UX, branding, and creative development
-* 🎧 Love music, books, and discovering inspiring designs
-* 💬 Ask me about React Native, Expo, TailwindCSS, or UI libraries
+<br>
+
+Music, books, and a habit of collecting interfaces that get the small stuff right — the easing curve, the spacing, the one pixel that was off.
+
+Ask me about React Native, Expo, Tailwind, or anything UI-library shaped.
+
+</details>
 
 ---
 
-## 🌎 Connect With Me
+## 👋 Say hi
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/likithanagaraj/](https://www.linkedin.com/in/likithanagaraj/)
-* 💼 X : [https://x.com/_Likitha_N](https://x.com/_Likitha_N)
-* 💻 GitHub: [https://github.com/likithanagaraj](https://github.com/likithanagaraj)
-* 📫 Gmail: mailto:likithanagaraj2004@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/likithanagaraj/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/likithanagaraj">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/_Likitha_N">
+    <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:likithanagaraj2004@gmail.com">
+    <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@likithabuilds">
+    <img src="https://img.icons8.com/doodle/40/000000/youtube.png" alt="YouTube" />
+  </a>
+</p>
 
 ---
 
